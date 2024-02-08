@@ -44,7 +44,6 @@ main img {
 
 .imagediv {
   width: 200px;
-  object-fit: fill;
   width: 50%;
   height: 500px;
 }
